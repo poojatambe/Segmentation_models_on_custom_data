@@ -1,6 +1,6 @@
 # Segmentation_models_on_custom_data
 
-## **Instance segmentation with yoloV8 and segment Anything Model(SAM)**
+## **Instance segmentation with yoloV8 and Segment Anything Model(SAM)**
  * Install:
  ```
  !pip install ultralytics
