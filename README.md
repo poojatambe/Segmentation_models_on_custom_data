@@ -9,11 +9,11 @@
  ```
  * Run the command:
  ```
- !python seg.py --img image_path --weights yolov8 weights --model_type SAM model type --checkpoints SAM model checkpoints
+ !python SAM_yolov8.py --img image_path --weights yolov8 weights --model_type SAM model type --checkpoints SAM model checkpoints
  ```
  Example:
  ```
- !python seg.py --img '/content/pexels-erick-15590648.jpg' --weights '/content/best.pt' --model_type 'vit_l' --checkpoints '/content/sam_vit_l_0b3195.pth'
+ !python SAM_yolov8.py --img '/content/pexels-erick-15590648.jpg' --weights '/content/best.pt' --model_type 'vit_l' --checkpoints '/content/sam_vit_l_0b3195.pth'
  ```
  * Output:
  
