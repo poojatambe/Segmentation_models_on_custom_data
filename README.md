@@ -23,3 +23,9 @@
  
  **SAM_yoloV8**
 ![SAM_yolov8](https://user-images.githubusercontent.com/64680838/236404611-480a8d9f-898b-4bfd-b25e-a8980e713cb2.jpg)
+
+
+* Reference:
+
+1. https://github.com/ultralytics/ultralytics
+2. https://github.com/facebookresearch/segment-anything
